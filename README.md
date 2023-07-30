@@ -27,8 +27,8 @@ This is a PyTorch template repository to kickstart your deep learning projects. 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/FilippoBotti/pytorch_template.git
+cd pytorch_template
 ```
 2. Implement your model, dataloader and your training loop
 
